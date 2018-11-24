@@ -1,0 +1,1 @@
+This is Martin Rui Andorsen's first git project!
